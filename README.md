@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
 - Node.js installed on your machine. If you don't have Node.js installed, you can download it from [nodejs.org](https://nodejs.org/).
-- Appwrite account and with project set-up. If you don't have an account visit : [Appwrite](https://appwrite.io/))
+- Appwrite account and with project set-up. If you don't have an account visit : [Appwrite](https://appwrite.io/)
 
 ### Installation
 
