@@ -43,13 +43,9 @@ function Header() {
           <div className="mr-4">
             <Link to="/">
               <Logo>
-                <img
-                  src="../../src/assets/Web-logo.png"
-                  alt="web-icon"
-                  width="60px"
-                  height="60px"
-                  className=" bg-cover"
-                />
+                <p className=" text-gray-200 text-2xl font-bold">
+                  Paul<span className=" text-blue-600">DEV</span>
+                </p>
               </Logo>
             </Link>
           </div>
