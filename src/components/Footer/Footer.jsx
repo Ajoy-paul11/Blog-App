@@ -19,7 +19,7 @@ function Footer() {
               </div>
             </div>
           </div> */}
-          <div className="w-full p-6 md:w-1/2 lg:w-2/12">
+          <div className=" p-6 w-1/2 lg:w-2/12">
             <div className="h-full">
               <h3 className="tracking-px mb-9  text-xs font-semibold uppercase text-slate-400">
                 Company
@@ -60,7 +60,7 @@ function Footer() {
               </ul>
             </div>
           </div>
-          <div className="w-full p-6 md:w-1/2 lg:w-2/12">
+          <div className=" p-6 w-1/2 lg:w-2/12">
             <div className="h-full">
               <h3 className="tracking-px mb-9  text-xs font-semibold uppercase text-slate-400">
                 Support
@@ -101,7 +101,7 @@ function Footer() {
               </ul>
             </div>
           </div>
-          <div className="w-full p-6 md:w-1/2 lg:w-3/12">
+          <div className=" hidden lg:block  p-6 w-1/2 lg:w-3/12">
             <div className="h-full">
               <h3 className="tracking-px mb-9  text-xs font-semibold uppercase text-slate-400">
                 Legals
@@ -135,10 +135,10 @@ function Footer() {
             </div>
           </div>
         </div>
-        <div className=" mt-4 pt-2">
+        <div className=" mt-4 pt-2 text-center">
           <p className="text-lg text-white">
             &copy; Copyright {new Date().getFullYear()}. All Rights Reserved by
-            Ajoy-Paul.
+            Ajoy Paul.
           </p>
         </div>
       </div>
